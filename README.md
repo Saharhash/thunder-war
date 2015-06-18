@@ -2,7 +2,7 @@
 Dream Cheeky Thunder cool shooter wrapper
 
 # Main Features
-Except for shooting at bad build breakers, it also shoots a given user (given as a parameter), or shoots once a random time.
+Except for shooting at bad build breakers, it also shoots a given user, or shoots once a random time.
 
 # Usage Scenarios
 ## Jenkins stalk
