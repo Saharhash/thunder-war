@@ -89,8 +89,8 @@ http://sourceforge.net/projects/pyusb/
 ### Script adjustments
 * Users & their locations - in order to add more users and change their locations, modify USERS_COMMANDS_SEQUENCES dictionary inside the python script. Just use the directions commands. <b> a WARM suggestion </b> - do the location adjustments after work hours so when you will finish, people will be amazed. Also, I love to use the "pause" command inside a sequence, right before the shooting. It makes your target do weird faces and stand in defensive position
 * Change your Jenkins settings
-  ** JENKINS_NOTIFICATION_UDP_PORT - the port you will set in your Jenkins job. This port will be opened on your machine and will receive notifications from Jenkins
-  ** JENKINS_SERVER - Jenkins server`s IP
+  * JENKINS_NOTIFICATION_UDP_PORT - the port you will set in your Jenkins job. This port will be opened on your machine and will receive notifications from Jenkins
+  * JENKINS_SERVER - Jenkins server`s IP
 
 ## Jenkins
 1. Choose your desired project and press `Configure`
