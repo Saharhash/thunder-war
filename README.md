@@ -1,6 +1,21 @@
 # thunder-war
 Dream Cheeky Thunder cool shooter wrapper
 
+# Table of contents
+
+- [Main Features](#main-features)
+- [Usage Scenarios](#usage-scenarios)
+  - [Jenkins stalk] (#jenkins-stalk)
+  - [Jenkins stalk & tease] (#jenkins-stalk--tease)
+  - [Single colleague shot] (#single-colleague-shot)
+  - [Other commands] (#other-commands)
+- [Installation & Environment](#installation--environment)
+ - [Client (Computer connected to thunder cheecky)] (#client-computer-connected-to-thunder-cheecky)
+    - [Requirements] (#requirements)
+    - [Script adjustments] (#script-adjustments)
+ - [Jenkins] (#jenkins)
+- [Credits](#credits)
+
 # Main Features
 Except for shooting at bad build breakers, it also shoots a given user, or shoots once a random time.
 
